@@ -19,14 +19,14 @@
 				<a href="#"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>	
 			</div>
 		</div>
+		<div class="title-bar" data-responsive-toggle="top_menu" data-hide-for="large">
+      <button class="menu-icon" type="button" data-toggle></button>
+      <div class="title-bar-title">Menu</div>
+    </div>
 		<div class="columns nav-header-menu">
-			<div class="title-bar" data-responsive-toggle="top_menu" data-hide-for="medium">
-        <button class="menu-icon" type="button" data-toggle></button>
-        <div class="title-bar-title">Menu</div>
-      </div>
       <div class="top-bar" id="top_menu">
         <div class="top-bar-left">
-          <ul class="dropdown vertical medium-horizontal menu" data-dropdown-menu data-responsive-menu="drilldown medium-dropdown">
+          <ul class="dropdown vertical large-horizontal menu" data-responsive-menu="drilldown large-dropdown">
             <li><a href="/">Home</a></li>
 						<li class="has-submenu">
 							<a href="">Company</a>
