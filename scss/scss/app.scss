@@ -75,13 +75,15 @@ p {
   font-weight: 300;
 }
 
-$nav-header-background-color: rgba(7,18,36, 0.9);
-$submenu-background-color: rgba(7,18,36, 1);
+$nav-header-background-color: rgba(0,0,0, 0.77);
+$submenu-background-color: #000;
 $menu-font-size: 26px;
 $submenu-font-size: 20px;
 
 .expanded.row {
 	background-color: $nav-header-background-color;
+	position: relative;
+	z-index: 99999;
 }
 
 .nav-header {
@@ -173,11 +175,9 @@ $submenu-font-size: 20px;
 	    .top-bar {
 
 	    	.top-bar-left {
-
 	    		width: 100%;
 
 	    		ul.menu {
-
 	    			font-size: $submenu-font-size;
 
 	    			li.is-drilldown-submenu-parent>a::after {

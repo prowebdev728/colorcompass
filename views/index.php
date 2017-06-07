@@ -7,6 +7,7 @@
 	<title>Color Compass</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed" rel="stylesheet">
 	<link rel="stylesheet" href="/css/foundation.min.css">
+	<link rel="stylesheet" href="/css/slideshow.css">
 	<link rel="stylesheet" href="/css/app.css">
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="/js/foundation.min.js"></script>
@@ -56,6 +57,50 @@
 		</div>
 	</div>
 </div>
+<ul class="cb-slideshow">
+	<li class="slideshow-1">
+		<span>Image 01</span>
+		<div>
+			<h3>Partners In The Right Direction</h3>
+		</div>
+	</li>
+	<li class="slideshow-2">
+		<span>Image 02</span>
+		<div>
+			<h3>
+				An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
+			</h3>
+		</div>
+	</li>
+	<li class="slideshow-1">
+		<span>Image 01</span>
+		<div>
+			<h3>Partners In The Right Direction</h3>
+		</div>
+	</li>
+	<li class="slideshow-2">
+		<span>Image 02</span>
+		<div>
+			<h3>
+				An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
+			</h3>
+		</div>
+	</li>
+	<li class="slideshow-1">
+		<span>Image 01</span>
+		<div>
+			<h3>Partners In The Right Direction</h3>
+		</div>
+	</li>
+	<li class="slideshow-2">
+		<span>Image 02</span>
+		<div>
+			<h3>
+				An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
+			</h3>
+		</div>
+	</li>
+</ul>
 
 	<script>
 		$(document).foundation();
