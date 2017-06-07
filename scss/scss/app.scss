@@ -50,8 +50,69 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+@font-face {
+  font-family: 'Ramabhadra';
+  src: url('fonts/Ramabhadra-Regular.ttf');
+  font-weight: 400;
+}
+html,
 body {
-	h {
-		font-size: 14px;
-	}
+  height: 100%;
+  background-color: #ffffff;
+  font-weight: 300;
+  line-height: 1;
+  font-family: "Ramabhadra", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.expanded.row {
+	// background-color: #061123;
+}
+
+.nav-header {
+	padding: 36px 0 20px 0;
+	background-color: rgba(8,19,39,0.9);
+}
+.nav-header-logo {
+	width: auto;
+}
+.logo {
+	width: 320px;
+	height: 72px;
+}
+.nav-header-menu {
+	width: auto;
+	font-size: 26px;
+}
+.nav-header-menu {
+
+}
+.top-bar,
+.top-bar ul {
+	background-color: rgba(8,19,39,0.9);;
+}
+.top-bar ul li a {
+	color: #fff;
+}
+.top-bar ul li a::after {
+	border-color: #fefefe transparent transparent !important;
+}
+.submenu {
+	font-size: 20px;
+}
+
+@media screen and (min-width: 1400px) {
+  .row {
+    min-width: 1330px;
+  }
 }
