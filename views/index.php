@@ -26,7 +26,7 @@
 		<div class="columns nav-header-menu">
       <div class="top-bar" id="top_menu">
         <div class="top-bar-left">
-          <ul class="dropdown vertical large-horizontal menu" data-responsive-menu="drilldown large-dropdown">
+          <ul class="dropdown vertical large-horizontal medium-vertical menu" data-responsive-menu="drilldown large-dropdown">
             <li><a href="/">Home</a></li>
 						<li class="has-submenu">
 							<a href="">Company</a>
