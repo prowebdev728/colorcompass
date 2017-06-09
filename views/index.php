@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Color Compass</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Ramabhadra' rel='stylesheet'>
 	<link rel="stylesheet" href="/css/foundation.min.css">
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/slideshow.css">
@@ -18,43 +19,37 @@
 	<li class="slideshow-1">
 		<span>Image 01</span>
 		<div>
-			<h3>Partners In The Right Direction</h3>
+			Partners In The Right Direction
 		</div>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
 		<div>
-			<h3>
-				An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
-			</h3>
+			An Automotive Refinish Supply company that specializes<br>in the distribution of Auto Body Supplies, Collision Repair<br> Training Services, and Specialty Market Coatings Nationwide
 		</div>
 	</li>
 	<li class="slideshow-1">
 		<span>Image 01</span>
 		<div>
-			<h3>Partners In The Right Direction</h3>
+			Partners In The Right Direction
 		</div>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
 		<div>
-			<h3>
-				An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
-			</h3>
+			An Automotive Refinish Supply company that specializes<br>in the distribution of Auto Body Supplies, Collision Repair<br> Training Services, and Specialty Market Coatings Nationwide
 		</div>
 	</li>
 	<li class="slideshow-1">
 		<span>Image 01</span>
 		<div>
-			<h3>Partners In The Right Direction</h3>
+			Partners In The Right Direction
 		</div>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
 		<div>
-			<h3>
-				An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
-			</h3>
+			An Automotive Refinish Supply company that specializes<br>in the distribution of Auto Body Supplies, Collision Repair<br> Training Services, and Specialty Market Coatings Nationwide
 		</div>
 	</li>
 </ul>
@@ -106,9 +101,7 @@
 </div>
 
 <div class="row content">
-	<div class="small-12 columns">
-	dfgsdgdf
-	</div>
+	<div class="small-12 columns"></div>
 </div>
 
 <div class="expanded row footer">
@@ -160,7 +153,6 @@
 		</div>
 	</div>
 </div>
-
 
 	<script>
 		$(document).foundation();
