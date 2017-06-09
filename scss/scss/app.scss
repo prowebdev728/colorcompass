@@ -202,7 +202,6 @@ div[data-sticky-container] {
 
   .cb-slideshow li.slideshow-1 div {
     top: 620px;
-
   }
   .cb-slideshow li.slideshow-2 div {
     top: 670px;
@@ -219,6 +218,16 @@ div[data-sticky-container] {
 	  		top: 55px !important;
 	  	}
 	  }
+  }
+
+  .cb-slideshow li.slideshow-1 div {
+    font-size: 80px !important;
+    top: 550px;
+  }
+  .cb-slideshow li.slideshow-2 div {
+    top: 570px;
+    left: 0px !important;
+    width: 1146px;
   }
 }
 @media screen and (max-width: 1024px - 1px) {
