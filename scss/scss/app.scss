@@ -180,22 +180,16 @@ div[data-sticky-container] {
 .cb-slideshow li.slideshow-1 div {
 	top: 65vh;
 	font-size: 100px;
+	line-height: 1;
 }
 .cb-slideshow li.slideshow-2 div {
 	top: 70vh;
 	left: 8vw;
-	width: auto;
-	border: 1px solid;
+	width: 1140px;
 	font-family: "Open Sans Condensed";
   font-weight: Bold;
   font-size: 48px;
   line-height: 1.2;
-}
-
-@media screen and (max-width: 1480px) {
-	.cb-slideshow li.slideshow-1 div {
-		font-size: 80px;
-	}
 }
 
 @media screen and (min-width: 1400px) {
@@ -223,10 +217,11 @@ div[data-sticky-container] {
   }
 
   .cb-slideshow li.slideshow-1 div {
-    
+    font-size: 80px;
   }
   .cb-slideshow li.slideshow-2 div {
-    
+    font-size: 44px;
+    width: 900px;
   }
 }
 @media screen and (max-width: 1024px - 1px) {
@@ -273,7 +268,12 @@ div[data-sticky-container] {
 	}
 
 	.cb-slideshow li.slideshow-1 div {
-  	font-size: 60px; 
+  	 font-size: 60px;
+  }
+  .cb-slideshow li.slideshow-2 div {
+  	 font-size: 38px;
+  	 width: 80vw;
+  	 left: 2vw;
   }
 }
 @media screen and (max-width: 640px) {
@@ -296,5 +296,13 @@ div[data-sticky-container] {
 		}
 	}
 
-	.cb-slideshow li div h3 { font-size: 32px; }
+	.cb-slideshow li.slideshow-1 div {
+  	 font-size: 40px;
+  }
+  .cb-slideshow li.slideshow-2 div {
+  	 font-size: 30px;
+  	 width: 90vw;
+  	 left: 2vw;
+  }
+
 }
