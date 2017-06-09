@@ -25,7 +25,7 @@
 	<li class="slideshow-2">
 		<span>Image 02</span>
 		<div>
-			An Automotive Refinish Supply company that specializes<br>in the distribution of Auto Body Supplies, Collision Repair<br> Training Services, and Specialty Market Coatings Nationwide
+			An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
 		</div>
 	</li>
 	<li class="slideshow-1">
