@@ -18,39 +18,21 @@
 <ul class="cb-slideshow">
 	<li class="slideshow-1">
 		<span>Image 01</span>
-		<div>
-			Partners In The Right Direction
-		</div>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
-		<div>
-			An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide
-		</div>
 	</li>
 	<li class="slideshow-1">
 		<span>Image 01</span>
-		<div>
-			Partners In The Right Direction
-		</div>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
-		<div>
-			An Automotive Refinish Supply company that specializes<br>in the distribution of Auto Body Supplies, Collision Repair<br> Training Services, and Specialty Market Coatings Nationwide
-		</div>
 	</li>
 	<li class="slideshow-1">
 		<span>Image 01</span>
-		<div>
-			Partners In The Right Direction
-		</div>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
-		<div>
-			An Automotive Refinish Supply company that specializes<br>in the distribution of Auto Body Supplies, Collision Repair<br> Training Services, and Specialty Market Coatings Nationwide
-		</div>
 	</li>
 </ul>
 <div data-sticky-container>
@@ -100,8 +82,16 @@
 	</div>	
 </div>
 
-<div class="row content">
-	<div class="small-12 columns"></div>
+<div class="expanded row content">
+	<article id="screen_A">
+		<h3>Partners In The Right Direction</h3>
+		<a href="#screen_B" class="home_next" style="display: block;">
+			<i class="fa fa-angle-down fa-5x" aria-hidden="true"></i>
+		</a>
+	</article>
+	<article id="screen_B">
+		<h3>An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide</h3>
+	</article>
 </div>
 
 <div class="expanded row footer">
@@ -158,13 +148,19 @@
 
 	<script>
 		$(document).foundation();
-		$('.header').on('sticky.zf.stuckto:top', function(){
-		  $(this).addClass('shrink');
-		}).on('sticky.zf.unstuckfrom:top', function(){
-		  $(this).removeClass('shrink');
-		});
+		// $('.header').on('sticky.zf.stuckto:top', function(){
+		//   $(this).addClass('shrink');
+		// }).on('sticky.zf.unstuckfrom:top', function(){
+		//   $(this).removeClass('shrink');
+		// });
 		$(document).ready(function() {
-			
+			$('.content a').click(function(e) {
+				e.preventDefault();
+				var height = $('#'+$(this).parent().prop('id')).height();
+				$("body").animate({
+		      scrollTop: height
+		    }, 1500);
+			});
 		});
 	</script>
 </body>
