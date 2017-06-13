@@ -154,11 +154,14 @@
 		//   $(this).removeClass('shrink');
 		// });
 		$(document).ready(function() {
-			$('.content a').click(function(e) {
+			$('.content .home_next').on('click', function(e) {
 				e.preventDefault();
-				var height = $('#'+$(this).parent().prop('id')).height();
-				$("body").animate({
-		      scrollTop: height
+				e.stopPropagation();
+				var height = $('.content article').height();
+				var index = $('.content article').index($(this).parent('article'));
+				var scrollTop = height * (index+1);
+				$("html, body").animate({
+		      scrollTop: scrollTop 
 		    }, 1500);
 			});
 		});
