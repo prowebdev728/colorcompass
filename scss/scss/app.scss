@@ -77,7 +77,7 @@ p {
 
 $nav-header-background-color: rgba(0,0,0, 0.77);
 $submenu-background-color: #000;
-$menu-font-size: 25px;
+$menu-font-size: 22px;
 $submenu-font-size: 18px;
 
 div[data-sticky-container] {
@@ -133,7 +133,7 @@ div[data-sticky-container] {
 				}
 
 				ul.submenu {
-					top: 55px !important;
+					top: 52px !important;
 					width: 220px;
 					font-size: $submenu-font-size;
 					background-color: $nav-header-background-color !important;
@@ -181,23 +181,34 @@ div[data-sticky-container] {
 
 	article {
 		height: 100vh;
-		border: 1px solid transparent;
+
+		div {
+			height: 100%;
+			border: 1px solid transparent;	
+		}
 
 		h3 {
-			margin-top: 42vh;
+			margin-top: 30vh;
 			text-shadow: 4px 4px 6px #000;
 			color: #fff;
 			font-family: "Ramabhadra";
 			font-weight: 400;
-			font-size: 60px;
+			font-size: 40px;
 		}
-		a i.fa {
-			color: #fff;
+
+		a.home_next:after {
+			content: "";
+			display: block;
+			background: transparent url(/images/angle-down.png) no-repeat;
+			width: 100px;
+			height: 50px;
+			overflow: hidden;
+			margin: 20px auto;
 		}
 
 		&#screen_A {
 			h3 {
-				font-size: 100px;
+				font-size: 80px;
 			}
 		}
 
@@ -205,6 +216,7 @@ div[data-sticky-container] {
 			width: 1100px;
 			margin-right: auto;
 			margin-left: auto;
+
 			h3 {
 				font-family: "Open Sans Condensed";
 		  	font-weight: Bold;
@@ -229,7 +241,7 @@ div[data-sticky-container] {
 
   article {
   	&#screen_A h3 {
-  		font-size: 70px !important;
+  		// font-size: 80px !important;
   	}
 
   	&#screen_B {
@@ -297,7 +309,7 @@ div[data-sticky-container] {
   	&#screen_B {
   		width: 610px !important;
 	  	h3 {
-	  		font-size: 36px !important;
+	  		font-size: 38px !important;
 	  	}
   	}
   }
@@ -331,7 +343,7 @@ div[data-sticky-container] {
   	&#screen_B {
   		width: 90vw !important;
 	  	h3 {
-	  		font-size: 26px !important;
+	  		font-size: 30px !important;
 	  	}
   	}
   }
