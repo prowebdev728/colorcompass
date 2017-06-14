@@ -79,6 +79,7 @@ $nav-header-background-color: rgba(0,0,0, 0.77);
 $submenu-background-color: #000;
 $menu-font-size: 22px;
 $submenu-font-size: 18px;
+$header-height: 116px;
 
 div[data-sticky-container] {
 	height: auto !important;
@@ -133,7 +134,7 @@ div[data-sticky-container] {
 				}
 
 				ul.submenu {
-					top: 52px !important;
+					top: 62px !important;
 					width: 220px;
 					font-size: $submenu-font-size;
 					background-color: $nav-header-background-color !important;
@@ -178,32 +179,43 @@ div[data-sticky-container] {
 	z-index: 0;
 	height: auto;
 	text-align: center;
+	margin-top: -$header-height;
 
 	article {
+		width: 100%;
 		height: 100vh;
 
 		div {
+			position: relative;
 			height: 100%;
-			border: 1px solid transparent;	
-		}
+			border: 1px solid transparent;
 
-		h3 {
-			margin-top: 30vh;
-			text-shadow: 4px 4px 6px #000;
-			color: #fff;
-			font-family: "Ramabhadra";
-			font-weight: 400;
-			font-size: 40px;
-		}
+			h3 {
+				margin-top: 40vh;
+				text-shadow: 4px 4px 6px #000;
+				color: #fff;
+				font-family: "Ramabhadra";
+				font-weight: 400;
+				font-size: 40px;
+			}
 
-		a.home_next:after {
-			content: "";
-			display: block;
-			background: transparent url(/images/angle-down.png) no-repeat;
-			width: 100px;
-			height: 50px;
-			overflow: hidden;
-			margin: 20px auto;
+			a.home_next {
+				position: absolute;
+				bottom: 50px;
+				left: 50%;
+				width: 100px;
+				margin-left: -50px;
+
+				&:after {
+					content: "";
+					display: block;
+					background: transparent url(/images/angle-down.png) no-repeat;
+					width: 100px;
+					height: 50px;
+					overflow: hidden;
+					margin: 20px auto;
+				}
+			}
 		}
 
 		&#screen_A {
@@ -213,15 +225,23 @@ div[data-sticky-container] {
 		}
 
 		&#screen_B {
-			width: 1100px;
-			margin-right: auto;
-			margin-left: auto;
-
 			h3 {
-				font-family: "Open Sans Condensed";
-		  	font-weight: Bold;
-		  	font-size: 50px;
-		  	line-height: 1.2;
+				font-size: 80px;
+			}
+		}
+
+		&#screen_C {
+			div {
+				width: 1100px;
+				margin-right: auto;
+				margin-left: auto;
+
+				h3 {
+					font-family: "Open Sans Condensed";
+			  	font-weight: Bold;
+			  	font-size: 50px;
+			  	line-height: 1.2;
+				}
 			}
 		}
 	}
@@ -232,28 +252,49 @@ div[data-sticky-container] {
   	width: 100%;
     max-width: 1530px;
   }
+
+  .nav-header {
+		padding-bottom: 10px !important;
+	}
 }
 
 @media screen and (max-width: 1400px) {
-  .nav-header-menu {
-  	margin-top: 0px !important;
-  }
+	$header-height: 168px;
 
-  article {
-  	&#screen_A h3 {
-  		// font-size: 80px !important;
-  	}
+	.nav-header {
+		.nav-header-menu {
+	  	margin-top: 0px !important;
 
-  	&#screen_B {
-  		width: 900px !important;
-  		h3 {
-	  		font-size: 46px !important;
+	  	.top-bar{
+				ul.menu {
+					ul.submenu {
+						top: 52px !important;
+					}
+				}
+			}
+	  }
+	}
+
+  .content {
+		margin-top: -$header-height;
+
+	  article {
+	  	&#screen_C {
+	  		div {
+	  			width: 900px !important;
+	  		}
+
+	  		h3 {
+		  		font-size: 46px !important;
+		  	}
 	  	}
-  	}
-  }
+		}
+	}
 }
 
 @media screen and (max-width: 1024px) {
+	$header-height: 128px;
+
 	.nav-header {
 		.nav-header-logo {
 	    margin-bottom: 20px;
@@ -301,18 +342,29 @@ div[data-sticky-container] {
 	  }
 	}
 
-	article {
-  	&#screen_A h3 {
-  		font-size: 60px !important;
-  	}
+	.content {
+		margin-top: -$header-height;
+		
+		article {
+			&#screen_A h3 {
+				font-size: 60px !important;
+			}
 
-  	&#screen_B {
-  		width: 610px !important;
-	  	h3 {
-	  		font-size: 38px !important;
-	  	}
-  	}
-  }
+			&#screen_B h3 {
+				font-size: 60px !important;
+			}
+
+			&#screen_C {
+				div {
+					width: 610px !important;
+				}
+
+				h3 {
+		  		font-size: 38px !important;
+		  	}
+			}
+		}
+	}
 }
 
 @media screen and (max-width: 640px) {
@@ -335,16 +387,24 @@ div[data-sticky-container] {
 		}
 	}
 
-	article {
-  	&#screen_A h3 {
-  		font-size: 40px !important;
-  	}
+  .content {
+  	article {
+	  	&#screen_A h3 {
+				font-size: 40px !important;
+			}
 
-  	&#screen_B {
-  		width: 90vw !important;
-	  	h3 {
-	  		font-size: 30px !important;
-	  	}
-  	}
+			&#screen_B h3 {
+				font-size: 40px !important;
+			}
+
+			&#screen_C {
+				div {
+					width: 90vw !important;
+				}
+		  	h3 {
+		  		font-size: 30px !important;
+		  	}
+			}
+	  }
   }
 }
