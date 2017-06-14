@@ -86,11 +86,19 @@
 	<article id="screen_A">
 		<div>
 			<h3>Partners In The<br>Right Direction</h3>
-			<a href="#screen_B" class="home_next" style="display: block;"></a>
+			<a href="#" class="home_next" style="display: block;"></a>
 		</div>
 	</article>
 	<article id="screen_B">
-		<h3>An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide</h3>
+		<div>
+			<h3>Partners In The<br>Right Direction</h3>
+			<a href="#" class="home_next" style="display: block;"></a>
+		</div>
+	</article>
+	<article id="screen_C" class="abc">
+		<div>
+			<h3>An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide</h3>
+		</div>
 	</article>
 </div>
 
@@ -158,13 +166,13 @@
 				e.preventDefault();
 				e.stopPropagation();
 				var height = $('.content article').height();
-				console.log(height)
-				var index = $('.content article').index($(this).parent('article'));
-				var scrollTop = height * (index+1);
-				console.log(scrollTop)
+				var index = $('.content article').index($(this).parent('div').parent('article'));
+				var headerHeight = $('.header').height();
+				console.log(headerHeight)
+				var scrollTop = height * (index+1) - headerHeight;
 				$("html, body").animate({
 		      scrollTop: scrollTop 
-		    }, 1500);
+		    }, 2000);
 			});
 		});
 	</script>
