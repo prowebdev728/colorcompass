@@ -69,7 +69,7 @@ ul.cb-slideshow  {
   animation-delay: 20s; 
 }
 .cb-slideshow li:nth-child(4) span { 
-  background-image: url(../images/slideshow/1.jpg);
+  background-image: url(../images/slideshow/4.jpg);
   -webkit-animation-delay: 30s;
   -moz-animation-delay: 30s;
   -o-animation-delay: 30s;
@@ -77,7 +77,7 @@ ul.cb-slideshow  {
   animation-delay: 30s; 
 }
 .cb-slideshow li:nth-child(5) span { 
-  background-image: url(../images/slideshow/2.jpg);
+  background-image: url(../images/slideshow/1.jpg);
   -webkit-animation-delay: 40s;
   -moz-animation-delay: 40s;
   -o-animation-delay: 40s;
@@ -85,7 +85,7 @@ ul.cb-slideshow  {
   animation-delay: 40s; 
 }
 .cb-slideshow li:nth-child(6) span { 
-  background-image: url(../images/slideshow/3.jpg);
+  background-image: url(../images/slideshow/2.jpg);
   -webkit-animation-delay: 50s;
   -moz-animation-delay: 50s;
   -o-animation-delay: 50s;
