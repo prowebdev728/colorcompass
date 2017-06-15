@@ -22,17 +22,17 @@
 	<li class="slideshow-2">
 		<span>Image 02</span>
 	</li>
-	<li class="slideshow-1">
-		<span>Image 01</span>
-	</li>
-	<li class="slideshow-2">
-		<span>Image 02</span>
+	<li class="slideshow-3">
+		<span>Image 03</span>
 	</li>
 	<li class="slideshow-1">
 		<span>Image 01</span>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
+	</li>
+	<li class="slideshow-3">
+		<span>Image 03</span>
 	</li>
 </ul>
 <div data-sticky-container>
@@ -91,14 +91,53 @@
 	</article>
 	<article id="screen_B">
 		<div>
-			<h3>Partners In The<br>Right Direction</h3>
+			<h3>An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide</h3>
 			<a href="#" class="home_next" style="display: block;"></a>
 		</div>
 	</article>
-	<article id="screen_C" class="abc">
+	<article id="screen_C">
 		<div>
-			<h3>An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide</h3>
+			<h3>Our group delivers products, training, and solutions that enhance our customer’s production and profitability. We are a team of over 260 specialists throughout Canada who come together within four distinct Western Canadian jobber operations, as well as a national warehousing division; we have a national reach with a local touch.</h3>
+			<a href="#" class="home_next" style="display: block;"></a>
 		</div>
+	</article>
+	<article id="screen_D">
+    <div>
+    	<ul>
+	      <li>
+	        <a href="#" id="business">
+	          <h3>Business</h3>
+	          <div class="container">
+	            <p></p>
+	          </div>
+	        </a>
+	      </li>           
+	      <li>
+	        <a href="#" id="dispute-resolution">
+	          <h3>Dispute Resolution</h3>
+	          <div class="container">
+	            <p></p>
+	          </div>
+	        </a>
+	      </li>            
+	      <li>
+	        <a href="#" id="personal">
+	          <h3>Personal</h3>
+	          <div class="container">
+	            <p></p>
+	          </div>
+	        </a>
+	      </li>            
+	      <li>
+	        <a href="#" id="public-sector">
+	          <h3>Public Sector</h3>
+	          <div class="container">
+	            <p></p>
+	          </div>
+	        </a>
+	      </li>            
+	    </ul>
+    </div>
 	</article>
 </div>
 
@@ -112,19 +151,19 @@
 				</p>
 				<p class="social">
 					<a href="https://www.linkedin.com/company/color-compass-corporation" target="_blank">
-						<i class="fa fa-linkedin fa-lg" aria-hidden="true" title="Color Compass Corporation LinkedIn"></i>
+						<i class="fa fa-linkedin-square fa-2x" aria-hidden="true" title="Color Compass Corporation LinkedIn"></i>
 					</a>
 					<a href="https://twitter.com/ColorCompass" target="_blank">
-						<i class="fa fa-twitter fa-lg" aria-hidden="true" title="Color Compass Corporation Twitter"></i>
+						<i class="fa fa-twitter-square fa-2x" aria-hidden="true" title="Color Compass Corporation Twitter"></i>
 					</a>
 					<a href="https://www.facebook.com/Color-Compass-Corporation-660498810765347/" target="_blank">
-						<i class="fa fa-facebook fa-lg" aria-hidden="true" title="Color Compass Corporation FaceBook"></i>
+						<i class="fa fa-facebook-square fa-2x" aria-hidden="true" title="Color Compass Corporation FaceBook"></i>
 					</a>
 					<a href="https://plus.google.com/118393445120103564064/posts" target="_blank">
-						<i class="fa fa-google-plus fa-lg" aria-hidden="true" title="Color Compass Corporation Google +"></i>
+						<i class="fa fa-google-plus-square fa-2x" aria-hidden="true" title="Color Compass Corporation Google +"></i>
 					</a>
 					<a href="https://www.instagram.com/color_compass/" target="_blank">
-						<i class="fa fa-instagram fa-lg" aria-hidden="true" title="Color Compass Corporation Instagram"></i>
+						<i class="fa fa-instagram fa-2x" aria-hidden="true" title="Color Compass Corporation Instagram"></i>
 					</a>
 				</p>
 			</div>
