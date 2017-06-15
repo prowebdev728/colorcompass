@@ -25,14 +25,14 @@
 	<li class="slideshow-3">
 		<span>Image 03</span>
 	</li>
+	<li class="slideshow-4">
+		<span>Image 04</span>
+	</li>
 	<li class="slideshow-1">
 		<span>Image 01</span>
 	</li>
 	<li class="slideshow-2">
 		<span>Image 02</span>
-	</li>
-	<li class="slideshow-3">
-		<span>Image 03</span>
 	</li>
 </ul>
 <div data-sticky-container>
@@ -105,37 +105,30 @@
     <div>
     	<ul>
 	      <li>
-	        <a href="#" id="business">
-	          <h3>Business</h3>
-	          <div class="container">
-	            <p></p>
-	          </div>
-	        </a>
+	      	<a href="http://www.pbedistributors.com" target="_blank">
+	      		<img src="/images/pbe_logo.png" alt="PBE Distributors">
+	      	</a>
 	      </li>           
 	      <li>
-	        <a href="#" id="dispute-resolution">
-	          <h3>Dispute Resolution</h3>
-	          <div class="container">
-	            <p></p>
-	          </div>
-	        </a>
+	      	<a href="http://www.chaseautobodysupplies.com" target="_blank">
+	      		<img src="/images/chase_logo.png" alt="Chase Auto Body">
+	      	</a>
 	      </li>            
 	      <li>
-	        <a href="#" id="personal">
-	          <h3>Personal</h3>
-	          <div class="container">
-	            <p></p>
-	          </div>
-	        </a>
+	      	<a href="http://www.carlsonbodyshopsupply.com" target="_blank">
+	      		<img src="/images/carlson_logo.png" alt="Carlson Body Shop">
+	      	</a>
 	      </li>            
 	      <li>
-	        <a href="#" id="public-sector">
-	          <h3>Public Sector</h3>
-	          <div class="container">
-	            <p></p>
-	          </div>
+	        <a href="http://www.rockymountainsales.ca" target="_blank">
+	        	<img src="/images/rocky_logo.png" alt="Rocky Mountain Sales">
 	        </a>
-	      </li>            
+	      </li>
+	      <li>
+	        <a href="http://www.whiteandpeters.com" target="_blank">
+	        	<img src="/images/wp_logo.png" alt="White &amp; Peters">
+	        </a>
+	      </li>
 	    </ul>
     </div>
 	</article>
@@ -211,7 +204,7 @@
 				var scrollTop = height * (index+1) - headerHeight;
 				$("html, body").animate({
 		      scrollTop: scrollTop 
-		    }, 2000);
+		    }, 1500);
 			});
 		});
 	</script>
