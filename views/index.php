@@ -15,7 +15,7 @@
 	<script src="/js/foundation.min.js"></script>
 </head>
 <body>
-<!-- <ul class="cb-slideshow">
+<ul class="cb-slideshow">
 	<li class="slideshow-1">
 		<span>Image 01</span>
 	</li>
@@ -28,8 +28,7 @@
 	<li class="slideshow-4">
 		<span>Image 04</span>
 	</li>
-</ul> -->
-<div class="slideshow"></div>
+</ul>
 <div data-sticky-container>
 	<div class="expanded row header" data-sticky data-options="marginTop:0;">
 		<div class="row nav-header">
@@ -193,20 +192,29 @@
 				e.preventDefault();
 				e.stopPropagation();
 				var height = $('.content article').height();
-				var index = $('.content article').index($(this).parent('div').parent('article'));
+				var index = $('.content article').index($(this).parent('div').parent('article')) + 1;
 				var headerHeight = $('.header').height();
 				// console.log(headerHeight)
-				var scrollTop = height * (index+1) - headerHeight;
+				var scrollTop = height * index - headerHeight;
 				$("html, body").animate({
 		      scrollTop: scrollTop
 		    }, 1500);
 
-				$('.slideshow').css('background-image', 'url(../images/slideshow/'+(index+2)+'.jpg)');
+				$('.cb-slideshow li span').css('opacity', 0);
+				$('.cb-slideshow li:nth-child('+(index)+') span').css('animation', 'imageAnimation1 1s linear 0s');
+				$('.cb-slideshow li:nth-child('+(index+1)+') span').css('animation', 'imageAnimation2 1s linear 0s');
+				$('.cb-slideshow li:nth-child('+(index+1)+') span').css('opacity', 1);
 			});
 			$("article").on('mouseenter', function(e) {
 				e.preventDefault();
 				e.stopPropagation();
 	      console.log($(this).attr('id'))
+	      var index = $('.content article').index($(this));
+	      console.log(index)
+	      $('.cb-slideshow li span').css('opacity', 0);
+				$('.cb-slideshow li:nth-child('+(index)+') span').css('animation', 'imageAnimation1 1s linear 0s');
+				$('.cb-slideshow li:nth-child('+(index+1)+') span').css('animation', 'imageAnimation2 1s linear 0s');
+				$('.cb-slideshow li:nth-child('+(index+1)+') span').css('opacity', 1);
 	    });
 		});
 	</script>
