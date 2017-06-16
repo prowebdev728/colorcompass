@@ -9,13 +9,13 @@
 	<link href='https://fonts.googleapis.com/css?family=Ramabhadra' rel='stylesheet'>
 	<link rel="stylesheet" href="/css/foundation.min.css">
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
-	<link rel="stylesheet" href="/css/slideshow.css">
+	<!-- <link rel="stylesheet" href="/css/slideshow.css"> -->
 	<link rel="stylesheet" href="/css/app.css">
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="/js/foundation.min.js"></script>
 </head>
 <body>
-<ul class="cb-slideshow">
+<!-- <ul class="cb-slideshow">
 	<li class="slideshow-1">
 		<span>Image 01</span>
 	</li>
@@ -28,13 +28,8 @@
 	<li class="slideshow-4">
 		<span>Image 04</span>
 	</li>
-	<li class="slideshow-1">
-		<span>Image 01</span>
-	</li>
-	<li class="slideshow-2">
-		<span>Image 02</span>
-	</li>
-</ul>
+</ul> -->
+<div class="slideshow"></div>
 <div data-sticky-container>
 	<div class="expanded row header" data-sticky data-options="marginTop:0;">
 		<div class="row nav-header">
@@ -200,12 +195,19 @@
 				var height = $('.content article').height();
 				var index = $('.content article').index($(this).parent('div').parent('article'));
 				var headerHeight = $('.header').height();
-				console.log(headerHeight)
+				// console.log(headerHeight)
 				var scrollTop = height * (index+1) - headerHeight;
 				$("html, body").animate({
-		      scrollTop: scrollTop 
+		      scrollTop: scrollTop
 		    }, 1500);
+
+				$('.slideshow').css('background-image', 'url(../images/slideshow/'+(index+2)+'.jpg)');
 			});
+			$("article").on('mouseenter', function(e) {
+				e.preventDefault();
+				e.stopPropagation();
+	      console.log($(this).attr('id'))
+	    });
 		});
 	</script>
 </body>
