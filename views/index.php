@@ -36,7 +36,7 @@
 	</li>
 </ul>
 <div data-sticky-container>
-	<div class="expanded row header" data-sticky data-options="marginTop:0;" style="left: 0; right: 0;">
+	<div class="expanded row header" data-sticky data-options="marginTop:0;">
 		<div class="row nav-header">
 			<div class="columns nav-header-logo">
 				<div class="logo">
@@ -86,19 +86,19 @@
 	<article id="screen_A">
 		<div>
 			<h3>Partners In The<br>Right Direction</h3>
-			<a href="#" class="home_next" style="display: block;"></a>
+			<a href="#" class="home_next"></a>
 		</div>
 	</article>
 	<article id="screen_B">
 		<div>
 			<h3>An Automotive Refinish Supply company that specializes in the distribution of Auto Body Supplies, Collision Repair Training Services, and Specialty Market Coatings Nationwide</h3>
-			<a href="#" class="home_next" style="display: block;"></a>
+			<a href="#" class="home_next"></a>
 		</div>
 	</article>
 	<article id="screen_C">
 		<div>
 			<h3>Our group delivers products, training, and solutions that enhance our customer’s production and profitability. We are a team of over 260 specialists throughout Canada who come together within four distinct Western Canadian jobber operations, as well as a national warehousing division; we have a national reach with a local touch.</h3>
-			<a href="#" class="home_next" style="display: block;"></a>
+			<a href="#" class="home_next"></a>
 		</div>
 	</article>
 	<article id="screen_D">

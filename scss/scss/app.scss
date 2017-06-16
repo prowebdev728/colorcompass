@@ -77,8 +77,8 @@ p {
 
 $nav-header-background-color: rgba(0,0,0, 0.77);
 $submenu-background-color: #000;
-$menu-font-size: 22px;
-$submenu-font-size: 18px;
+$menu-font-size: 12px;
+$submenu-font-size: 12px;
 $header-height: 116px;
 
 div[data-sticky-container] {
@@ -90,6 +90,8 @@ div[data-sticky-container] {
 	background-color: $nav-header-background-color;
 	position: relative;
 	z-index: 99999;
+	left: 0;
+	right: 0;
 }
 
 .header.shrink .nav-header {
@@ -134,7 +136,7 @@ div[data-sticky-container] {
 				}
 
 				ul.submenu {
-					top: 62px !important;
+					top: 54px !important;
 					width: 220px;
 					font-size: $submenu-font-size;
 					background-color: $nav-header-background-color !important;
@@ -199,6 +201,7 @@ div[data-sticky-container] {
 			}
 
 			a.home_next {
+				display: block;
 				position: absolute;
 				bottom: 65px;
 				left: 50%;
@@ -302,7 +305,7 @@ div[data-sticky-container] {
 	  	.top-bar{
 				ul.menu {
 					ul.submenu {
-						top: 52px !important;
+						top: 42px !important;
 					}
 				}
 			}
