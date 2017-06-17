@@ -94,6 +94,10 @@ div[data-sticky-container] {
 	right: 0;
 }
 
+.header {
+	top: 0 !important;	
+}
+
 .header.shrink .nav-header {
 	padding-top: 1.25rem;
 }
@@ -201,7 +205,7 @@ ul.cb-slideshow  {
   color: transparent;
   background-size: cover;
   background-position: center top;
-  background-repeat: none;
+  background-repeat: no-repeat;
   opacity: 0;
   z-index: 0;
   -webkit-backface-visibility: hidden;
@@ -220,20 +224,12 @@ ul.cb-slideshow  {
   background-image: url(../images/slideshow/4.jpg);
 }
 @keyframes imageAnimation1 { 
-  0% { opacity: 1;
-  animation-timing-function: ease-in; }
-  50% { opacity: 0.5;
-  animation-timing-function: ease-in; }
-  100% { opacity: 0;
-       animation-timing-function: ease-out; }
+  0% { opacity: 1; }
+  100% { opacity: 0; }
 }
 @keyframes imageAnimation2 { 
-  0% { opacity: 0;
-  animation-timing-function: ease-in; }
-  50% { opacity: 0.5;
-  animation-timing-function: ease-in; }
-  100% { opacity: 1;
-       animation-timing-function: ease-out; }
+  0% { opacity: 0; }
+  100% { opacity: 1;}
 }
 
 .content {
@@ -306,7 +302,7 @@ ul.cb-slideshow  {
 		&#screen_D {
 			div {
 				ul {
-					margin-top: 20vh !important;
+					margin-top: 27vh !important;
 					width: 100%;
 					position: relative;
 					top: 0;
@@ -353,7 +349,7 @@ ul.cb-slideshow  {
 }
 
 @media screen and (max-width: 87.5rem) {
-	$header-height: 10.5rem;
+	$header-height: 7rem;
 
   .content {
 		margin-top: -$header-height;
@@ -373,11 +369,28 @@ ul.cb-slideshow  {
 	}
 }
 
-@media screen and (max-width: 64rem) {
-	$header-height: 8rem;
+@media screen and (max-width: 68rem) and (min-width: 64rem) {
+	.nav-header {
+	  .nav-header-menu {
+	  	ul.menu {
+				li {
+					a {
+						margin-right: 1.2rem !important;
+					}
+				}
+			}
+	  }
+	}
+}
+
+@media screen and (max-width: 63.9375rem) {
+	$header-height: 7rem;
 
 	.nav-header {
-		padding-bottom: 0;
+		padding-bottom: 0px;
+		.nav-header-logo {
+			margin-bottom: 10px;
+		}
 
 	  .title-bar {
 	  	display: inline-block;
@@ -452,6 +465,8 @@ ul.cb-slideshow  {
 }
 
 @media screen and (max-width: 40rem) {
+	$header-height: 11rem;
+
   .nav-header {
   	.title-bar {
   		width: 100%;
@@ -472,9 +487,16 @@ ul.cb-slideshow  {
 	}
 
   .content {
+  	margin-top: -$header-height;
+
   	article {
+  		div {
+  			a.home_next {
+					bottom: 2rem;
+  			}
+  		}
 	  	&#screen_A h3 {
-				font-size: 2.5rem !important;
+				font-size: 2.2rem !important;
 			}
 
 			&#screen_B,
@@ -483,16 +505,21 @@ ul.cb-slideshow  {
 					width: 90vw !important;
 				}
 		  	h3 {
-		  		font-size: 1.875rem !important;
+		  		margin-top: 4rem;
+		  		font-size: 1.8rem !important;
 		  	}
 			}
 
 			&#screen_D {
 				div {
-					ul li a {
-						height: 5.4375rem !important;
-						&:hover {
-							height: 6.25rem !important;
+					ul {
+						margin-top: 4rem !important;
+
+						li a {
+							height: 5.4375rem !important;
+							&:hover {
+								height: 6.25rem !important;
+							}
 						}
 					}
 				}
