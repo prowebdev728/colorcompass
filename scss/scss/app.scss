@@ -59,9 +59,9 @@ html,
 body {
   height: 100%;
   background-color: #ffffff;
-  font-weight: 400;
+  font-family: "Open Sans Condensed";
+  font-weight: 300;
   line-height: 1;
-  font-family: "Ramabhadra", sans-serif;
 }
 h1,
 h2,
@@ -72,7 +72,8 @@ h6,
 p {
   margin: 0;
   line-height: 1;
-  font-weight: 300;
+  font-family: "Open Sans Condensed";
+  font-weight: 700;
 }
 
 $nav-header-background-color: rgba(0,0,0, 0.77);
@@ -95,7 +96,8 @@ div[data-sticky-container] {
 }
 
 .header {
-	top: 0 !important;	
+	top: 0 !important;
+	font-family: "Ramabhadra", sans-serif;
 }
 
 .header.shrink .nav-header {
@@ -157,12 +159,13 @@ div[data-sticky-container] {
 
 	h5 {
 		margin-bottom: 0.5625rem;
-		font-size: 1.125rem;
+		font-size: 1.5rem;
+		letter-spacing: 0.03rem;
 	}
 	p {
-		font-size: 0.875rem;
+		font-size: 1rem;
 		line-height: 1.5;
-		letter-spacing: 0.01875rem;
+		letter-spacing: 0.04rem;
 	}
 
 	.corporation .social {
@@ -178,7 +181,7 @@ div[data-sticky-container] {
 		}
 	}
 }
-
+/* 
 ul.cb-slideshow  {
   list-style: none;
   margin-left: 0px;
@@ -194,7 +197,7 @@ ul.cb-slideshow  {
 }
 .cb-slideshow:after { 
   content: '';
-  // background: transparent url(../images/slideshow/pattern.png) repeat top left; 
+  background: transparent url(../images/slideshow/pattern.png) repeat top left; 
 }
 .cb-slideshow li span { 
   width: 100%;
@@ -231,17 +234,18 @@ ul.cb-slideshow  {
   0% { opacity: 0; }
   100% { opacity: 1;}
 }
-
+ */
 .content {
 	position: relative;
 	z-index: 0;
 	height: auto;
 	text-align: center;
-	margin-top: -$header-height;
 
 	article {
 		width: 100%;
 		height: 100vh;
+		position: relative;
+		top: -$header-height;
 
 		div {
 			position: relative;
@@ -262,16 +266,20 @@ ul.cb-slideshow  {
 				position: absolute;
 				bottom: 4.0625rem;
 				left: 50%;
-				width: 6.25rem;
+				width: 7rem;
 				margin-left: -3.125rem;
+				color: #fff;
+				font-family: "Open Sans Condensed";
+			  font-weight: 700;
+			  font-size: 1.3rem;
 
 				&:after {
 					content: "";
 					display: block;
 					background: transparent url(/images/angle-down.png) no-repeat;
 					background-position: center bottom;
-					width: 6.25rem;
 					height: 2.5rem;
+					margin-top: 0.5rem;
 					overflow: hidden;
 				}
 			}
@@ -352,9 +360,9 @@ ul.cb-slideshow  {
 	$header-height: 7rem;
 
   .content {
-		margin-top: -$header-height;
-
 	  article {
+	  	top: -$header-height;
+
 	  	&#screen_B,
 	  	&#screen_C {
 	  		div {
@@ -435,14 +443,13 @@ ul.cb-slideshow  {
 	  }
 	}
 
-	.content {
-		margin-top: -$header-height;
-		
+	.content {		
 		article {
+			top: -$header-height;
+
 			&#screen_A h3 {
 				font-size: 3.75rem !important;
 			}
-
 			&#screen_B,
 			&#screen_C {
 				div {
@@ -487,18 +494,18 @@ ul.cb-slideshow  {
 	}
 
   .content {
-  	margin-top: -$header-height;
-
   	article {
+  		top: -$header-height;
+
   		div {
   			a.home_next {
-					bottom: 2rem;
+					bottom: 1.2rem;
   			}
   		}
+
 	  	&#screen_A h3 {
 				font-size: 2.2rem !important;
 			}
-
 			&#screen_B,
 			&#screen_C {
 				div {
