@@ -1,94 +1,129 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<title>Color Compass | <?=$meta_title;?></title>
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed" rel="stylesheet">
-		<link rel="stylesheet" href="/css/foundation.min.css">
-		<link rel="stylesheet" href="/css/styles.css">
-		<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-		<script src="/js/foundation.min.js"></script>
-	</head>
-	<body>
-		<div class="row header">
-			<div class="small-12 medium-6 medium-centered column">
-				<a href="/"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>
-			</div>
-			<div class="small-12 column">
-				<div class="title-bar" data-responsive-toggle="top_menu" data-hide-for="medium">
-					<button class="menu-icon" type="button" data-toggle></button>
-					<div class="title-bar-title">Menu</div>
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Color Compass</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Ramabhadra' rel='stylesheet'>
+	<link rel="stylesheet" href="/css/foundation.min.css">
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/css/slideshow.css">
+	<link rel="stylesheet" href="/css/app.css">
+	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="/js/foundation.min.js"></script>
+</head>
+<body>
+	<div data-sticky-container>
+		<div class="expanded row header" data-sticky data-options="marginTop:0;">
+			<div class="row nav-header">
+				<div class="columns nav-header-logo">
+					<div class="logo">
+						<a href="#"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>	
+					</div>
 				</div>
-				<div class="top-bar" id="top_menu">
-					<ul class="dropdown vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
-						<li><a href="/">Home</a></li>
-						<li class="divider">|</li>
-						<li class="shas-submenu">
-							<a href="">Company</a>
-							<ul class="submenu menu vertical" data-submenu>
-								<li><a href="/about">About Us</a></li>
-								<li><a href="/history">History</a></li>
-								<li><a href="/executive">Leadership Team</a></li>
-								<li><a href="/mission">Mission/Vision</a></li>
+				<div class="title-bar" data-responsive-toggle="top_menu" data-hide-for="large">
+		      <button class="menu-icon" type="button" data-toggle></button>
+		      <div class="title-bar-title">Menu</div>
+		    </div>
+				<div class="columns nav-header-menu">
+		      <div class="top-bar" id="top_menu">
+		        <div class="top-bar-left">
+							<ul class="dropdown vertical large-horizontal medium-vertical menu" data-responsive-menu="drilldown large-dropdown">
+								<li><a href="/">Home</a></li>
+								<li class="has-submenu">
+									<a href="">Company</a>
+									<ul class="submenu menu vertical" data-submenu>
+										<li><a href="/about">About Us</a></li>
+										<li><a href="/history">History</a></li>
+										<li><a href="/executive">Leadership Team</a></li>
+										<li><a href="/mission">Mission/Vision</a></li>
+									</ul>
+								</li>
+								<li class="has-submenu">
+									<a href="">Divisions</a>
+									<ul class="submenu menu vertical" data-submenu>
+										<li><a href="http://www.carlsonbodyshopsupply.com" target="_blank">Carlson Body Shop</a></li>
+										<li><a href="http://www.chaseautobodysupplies.com" target="_blank">Chase Auto Body</a></li>
+										<li><a href="http://www.pbedistributors.com" target="_blank">PBE Distributors</a></li>
+										<li><a href="http://www.rockymountainsales.ca" target="_blank">Rocky Mountain</a></li>
+										<li><a href="http://www.whiteandpeters.com" target="_blank">White &amp; Peters</a></li>
+									</ul>
+								</li>
+								<li><a href="/news">News</a></li>
+								<li><a href="/community">Community</a></li>
+								<li><a href="/contact">Contact</a></li>
 							</ul>
-						</li>
-						<li class="divider">|</li>
-						<li class="has-submenu">
-							<a href="">Divisions</a>
-							<ul class="submenu menu vertical" data-submenu>
-								<li><a href="http://www.carlsonbodyshopsupply.com" target="_blank">Carlson Body Shop</a></li>
-								<li><a href="http://www.chaseautobodysupplies.com" target="_blank">Chase Auto Body</a></li>
-								<li><a href="http://www.pbedistributors.com" target="_blank">PBE Distributors</a></li>
-								<li><a href="http://www.rockymountainsales.ca" target="_blank">Rocky Mountain</a></li>
-								<li><a href="http://www.whiteandpeters.com" target="_blank">White &amp; Peters</a></li>
-							</ul>
-						</li>
-						<li class="divider">|</li>
-						<li><a href="/news">News</a></li>
-						<li class="divider">|</li>
-						<li><a href="/community">Community</a></li>
-						<li class="divider">|</li>
-						<li><a href="/contact">Contact</a></li>
-					</ul>
-				</div>
+		        </div>
+		      </div>
 				</div>
 			</div>
-		<?=$content;?>
-		<div class="row footer">
-			<div class="large-4 columns">
-				<h5>Color Compass Corporation</h5>
-				<p class="smaller">&copy; <?=date('Y');?> by Color Compass Corporation</p>
-				<p class="social"><a href="https://www.linkedin.com/company/color-compass-corporation" target="_blank"><img src="/images/linkedinicon.png" alt="Color Compass Corporation LinkedIn" title="Color Compass Corporation LinkedIn"></a>
-				<a href="https://twitter.com/ColorCompass" target="_blank"><img src="/images/twittericon.png" alt="Color Compass Corporation Twitter" title="Color Compass Corporation Twitter"></a>
-				<a href="https://www.facebook.com/Color-Compass-Corporation-660498810765347/" target="_blank"><img src="/images/facebookicon.png" alt="Color Compass Corporation FaceBook" title="Color Compass Corporation FaceBook"></a>
-				<a href="https://plus.google.com/118393445120103564064/posts" target="_blank"><img src="/images/googleplusicon.png" alt="Color Compass Corporation Google +" title="Color Compass Corporation Google +"></a>
-				<a href="https://www.instagram.com/color_compass/" target="_blank"><img src="/images/instagramicon.png" alt="Color Compass Corporation Instagram" title="Color Compass Corporation Instagram"></a></p>
+		</div>	
+	</div>
+	<?=$content;?>
+	<div class="expanded row footer">
+		<div class="row">
+			<div class="medium-12 large-4 columns">
+				<div class="corporation">
+					<h5>Color Compass Corporation</h5>
+					<p class="smaller">&copy; <?php echo date('Y'); ?> by Color Compass Corporation</p>
+					<p class="social">
+						<a href="https://www.linkedin.com/company/color-compass-corporation" target="_blank">
+							<i class="fa fa-linkedin-square fa-2x" aria-hidden="true" title="Color Compass Corporation LinkedIn"></i>
+						</a>
+						<a href="https://twitter.com/ColorCompass" target="_blank">
+							<i class="fa fa-twitter-square fa-2x" aria-hidden="true" title="Color Compass Corporation Twitter"></i>
+						</a>
+						<a href="https://www.facebook.com/Color-Compass-Corporation-660498810765347/" target="_blank">
+							<i class="fa fa-facebook-square fa-2x" aria-hidden="true" title="Color Compass Corporation FaceBook"></i>
+						</a>
+						<a href="https://plus.google.com/118393445120103564064/posts" target="_blank">
+							<i class="fa fa-google-plus-square fa-2x" aria-hidden="true" title="Color Compass Corporation Google +"></i>
+						</a>
+						<a href="https://www.instagram.com/color_compass/" target="_blank">
+							<i class="fa fa-instagram fa-2x" aria-hidden="true" title="Color Compass Corporation Instagram"></i>
+						</a>
+					</p>
+				</div>
 			</div>
-			<div class="large-3 large-offset-2 columns">
-				<h5>Vancouver Office</h5>
-				<p>
-					1368 United Blvd.<br>
-					Coquitlam BC, Canada<br>
-					V3K 6Y2<br>
-					604.540.7200
-				</p>
+			<div class="medium-6 large-3 large-offset-2 columns">
+				<div class="office-1">
+					<h5>Vancouver Office</h5>
+					<p>1368 United Blvd.<br>Coquitlam BC, Canada<br>V3K 6Y2<br>604.540.7200</p>
+				</div>
 			</div>
-			<div class="large-3 columns">
-				<h5>Edmonton Office</h5>
-				<p>
-					5308 - 97 Street<br>
-					Edmonton AB, Canada<br>
-					T6E 5W5<br>
-					780.438.0838
-				</p>
+			<div class="medium-6 large-3 columns">
+				<div class="office-2">
+					<h5>Edmonton Office</h5>
+					<p>5308 - 97 Street<br>Edmonton AB, Canada<br>T6E 5W5<br>780.438.0838</p>
+				</div>
 			</div>
 		</div>
-		<script>
-			$(document).foundation();
-			$(document).ready(function() {
-				$('.intro h2').fadeIn(2200);
+	</div>
+	<script>
+		$(document).foundation();
+		$(document).ready(function() {
+			$('.content .home_next').on('click', function(e) {
+				e.preventDefault();
+				e.stopPropagation();
+
+				var windowWidth = $(window).width();
+				var height = $('.content article').height();
+				var index = $('.content article').index($(this).parent('div').parent('article')) + 1;
+				var headerHeight = $('.header').height();
+				var scrollTop = 0;
+				if (windowWidth > 640) {
+					scrollTop = height * index - headerHeight;
+				} else {
+					scrollTop = height * index;
+				}
+
+				$("html, body").animate({
+		      scrollTop: scrollTop
+		    }, 1000);
 			});
-		</script>
-	</body>
+		});
+	</script>
+</body>
 </html>
