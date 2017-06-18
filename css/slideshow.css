@@ -34,6 +34,7 @@ ul.cb-slideshow  {
   -ms-animation: imageAnimation 40s linear infinite 0s;
   animation: imageAnimation 40s linear infinite 0s; 
 }
+/*
 .cb-slideshow li div { 
   z-index: 1000;
   position: absolute;
@@ -49,6 +50,7 @@ ul.cb-slideshow  {
   -ms-animation: titleAnimation 40s linear infinite 0s;
   animation: titleAnimation 40s linear infinite 0s; 
 }
+*/
 .cb-slideshow li:nth-child(1) span { 
   background-image: url(../images/slideshow/1.jpg);
 }
@@ -76,6 +78,7 @@ ul.cb-slideshow  {
   -ms-animation-delay: 30s;
   animation-delay: 30s; 
 }
+/*
 .cb-slideshow li:nth-child(2) div { 
   -webkit-animation-delay: 10s;
   -moz-animation-delay: 10s;
@@ -97,6 +100,7 @@ ul.cb-slideshow  {
   -ms-animation-delay: 30s;
   animation-delay: 30s; 
 }
+*/
 /* Animation for the slideshow images */
 @-webkit-keyframes imageAnimation { 
   0% { opacity: 0;
@@ -136,14 +140,15 @@ ul.cb-slideshow  {
 }
 @keyframes imageAnimation { 
   0% { opacity: 0;
-  animation-timing-function: ease-in; }
-  8% { opacity: 1;
-       animation-timing-function: ease-out; }
-  17% { opacity: 1 }
+    animation-timing-function: ease-in; }
+  1% { opacity: 1 }
+  24% { opacity: 1;
+    animation-timing-function: ease-out; }
   25% { opacity: 0 }
   100% { opacity: 0 }
 }
 /* Animation for the title */
+/*
 @-webkit-keyframes titleAnimation { 
   0% { opacity: 0 }
   8% { opacity: 1 }
@@ -179,6 +184,7 @@ ul.cb-slideshow  {
   19% { opacity: 0 }
   100% { opacity: 0 }
 }
+*/
 /* Show at least something when animations not supported */
 .no-cssanimations .cb-slideshow li span{
 	opacity: 1;
