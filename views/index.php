@@ -139,13 +139,11 @@
 	</div>
 	<script>
 		$(document).foundation();
-
 		/*$('.header').on('sticky.zf.stuckto:top', function(){
 		  $(this).addClass('shrink');
 		}).on('sticky.zf.unstuckfrom:top', function(){
 		  $(this).removeClass('shrink');
 		});*/
-
 		$(document).ready(function() {
 			//article transition when arrow button click
 			$('.content .home_next').on('click', function(e) {
