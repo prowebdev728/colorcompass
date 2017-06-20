@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/slideshow.css">
 	<link rel="stylesheet" href="/css/app.css">
-	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="/js/jquery.min.js"></script>
 	<script src="/js/foundation.min.js"></script>
 </head>
 <body>
