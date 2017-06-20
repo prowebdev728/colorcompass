@@ -139,11 +139,13 @@
 	</div>
 	<script>
 		$(document).foundation();
+
 		/*$('.header').on('sticky.zf.stuckto:top', function(){
 		  $(this).addClass('shrink');
 		}).on('sticky.zf.unstuckfrom:top', function(){
 		  $(this).removeClass('shrink');
 		});*/
+
 		$(document).ready(function() {
 			//article transition when arrow button click
 			$('.content .home_next').on('click', function(e) {
@@ -165,17 +167,21 @@
 		      scrollTop: scrollTop
 		    }, 1000);
 			});
+
 			//background images transition for each screen_(A,B,C,D) 
 			/*var prevArticleIndex = 1;
 			$(".content article").on('mouseenter', function(e) {
 				e.preventDefault();
 				e.stopPropagation();
 	      var index = $('.content article').index($(this))+1;
+
 	      if (prevArticleIndex == index) return;
+
 				$('.cb-slideshow li:nth-child('+prevArticleIndex+') span').css('animation', 'imageAnimation1 1s linear 0s');
 				$('.cb-slideshow li:nth-child('+prevArticleIndex+') span').css('opacity', 0);
 				$('.cb-slideshow li:nth-child('+index+') span').css('animation', 'imageAnimation2 1s linear 0s');
 				$('.cb-slideshow li:nth-child('+index+') span').css('opacity', 1);
+
 				prevArticleIndex = index;
 	    });*/
 		});
