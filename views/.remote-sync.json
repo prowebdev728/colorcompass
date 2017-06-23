@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "ccc.focusit.dtdns.net",
+  "port": "21",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "blaine",
+  "password": "G7wh84b",
+  "watch": [],
+  "transport": "scp"
+}
