@@ -1,0 +1,12 @@
+<div class="news">
+	<h5>Back to Back Wins</h5>
+	<div class="image">
+		<img src="/images/news/back-to-back-wins.jpg" alt="Back to Back Wins">
+		<small>Russ Duncan (centre) accepts the Pro Spot Distributor of the Year Award at the 2016 SEMA Show from Ron Olsson (left) and Art Ewing of Pro Spot.</small>
+	</div>
+	<p>Coquitlam, British Columbia -- November 21, 2016 -- Color Compass Corporation has won the Pro Spot Distributor of the Year award for the second year running. The award was presented at the 2016 SEMA Show.</p>
+	<p>Russ Duncan, Color Compass Equipment Specialist, accepted the award on behalf of the company. He discussed the company's strategy and plan for the future. "Our strategy going into 2016 remained relatively the same," says Duncan. "Starting with our great relationship with ProSpot, we continued our strong focus on the top quality range of products that they offer, while also including other products related to fastening, small and medium damage repair, and electronic 3D measuring equipment. We also provided expert training and support with all of the equipment products sold, which really led to our customers' success."</p>
+	<p>Another factor in the company's win may be its after-sale care techniques. Pro Spot examines more than just sales numbers when determining the Distributor of the Year. Customer service, pre- and post-sale, are important to ProSpot as well. Color Compass offers not only training and installation, but consultation as well.</p>
+	<p>Duncan says the Color Compass sales teams throughout Canada were instrumental in the Pro Spot equipment sales and training efforts. The expansions into the Ontario and eastern Canadian markets through PBE Distributors were also valued addition. Color Compass also credits its continued awareness and knowledge of the various training bodies and OEM programs, as well as its three Color Compass Training Centres, used to facilitate regular and ongoing equipment and collision repair training. The training centres are located in Calgary, Winnipeg and Edmonton.</p>
+	<p>Color Compass plans to expand its training and support efforts in 2017 by opening the fourth Color Compass Training Centre. The new training centre will be located in Coquitlam, BC. The new centre is scheduled to open in the first quarter of 2017 and will service all of the company's new equipment and collision repair training throughout British Columbia.</p>
+</div>
