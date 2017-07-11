@@ -1,0 +1,9 @@
+<div class="news">
+	<h5>An Exciting New Product Line for CCC</h5>
+	<div class="image">
+		<img src="/images/news/car-o-liner.jpg" alt="Car-O-Liner">
+	</div>
+	<p>Car-O-Liner is the leading global provider of high-quality, technologically advanced collision repair equipment to the automotive aftermarket. For more than 40 years, they have supplied the industry with innovative solutions, technical development, training, and customer support.</p>
+	<p>The extensive Car-O-Liner range encompasses advanced measuring systems, benches and work platforms for structural and cosmetic repair, welding equipment, anchoring equipment, and aluminum repair equipment. Car-O-Liner boasts an impressive number of OEM approvals for their equipment. OEM approvals are a required piece for repair facilities to earn formalized certifications from the top car brands. Currently Color Compass will be authorized to sell and support the line in BC, Saskatchewan and Manitoba only.</p>
+	<p>The introduction to the Car-O-Liner equipment line also comes as we introduce Blaine Fraser as the Color Compass Car-O-Liner and BETAG Equipment specialist. Blaine will be tasked with supporting the sales, installation, and training efforts of both the BETAG line of products as well as Car-O-Liner. Blaine was previously in sales with Carlson Body Shop Supply and has a deep understanding of the modern Collision Repair facility. With our growing repair equipment range of products along with the equipment specialist team, and our soon to be four training centres, we're ready to support our customers in the fast-paced industry. </p>
+</div>
