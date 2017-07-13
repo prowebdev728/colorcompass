@@ -20,7 +20,7 @@
 			<div class="row nav-header">
 				<div class="columns nav-header-logo">
 					<div class="logo">
-						<a href="#"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>	
+						<a href="/"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>
 					</div>
 				</div>
 				<div class="title-bar" data-responsive-toggle="top_menu" data-hide-for="large">
@@ -59,7 +59,7 @@
 		      </div>
 				</div>
 			</div>
-		</div>	
+		</div>
 	</div>
 	<?=$content;?>
 	<div class="expanded row footer">
