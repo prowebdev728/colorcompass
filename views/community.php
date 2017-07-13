@@ -1,8 +1,8 @@
-<div class="row intro bpadding">
+<div class="row padded-bottom">
 	<img src="/images/community-banner.jpg" alt="Color Compass Corporation Community">
 </div>
 <div class="row">
-	<div class="small-12 column">
+	<div class="small-12 column padded-vertical">
 		<h3>Community</h3>
 		<p>Color Compass continues to nurture the key community initiatives that it has held near and dear over the years. In addition to supporting the spontaneous requests of local charities in various efforts, The Color Compass Corporation has decided to focus its main community-building initiatives in two key areas: health and education. Through supporting local and national healthcare facilities and charities as well investing in post-secondary education, Color Compass strives to give back to the communities in which we do business.</p>
 	</div>
