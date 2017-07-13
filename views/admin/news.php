@@ -1,5 +1,5 @@
 <?php include 'views/admin/header.php'; ?>
-<h2>News Articles List <span class="padded-left"><a href="<?=$appurl.'/home/edit/0'?>" class="button small">Add Article</a></span></h2>
+<h2>News Articles List <span class="padded-left"><a href="<?=$appurl.'/news/edit/0'?>" class="button small">Add Article</a></span></h2>
 <div class="datalist">
 <table id="datalist" class="display">
 <thead>
@@ -7,7 +7,7 @@
 		<th>URL</th>
 		<th>Meta Title</th>
 		<th>Date</th>
-		<th>Status</th>
+		<th>Post To</th>
 		<th>Action</th>
 	</tr>
 	</thead>
