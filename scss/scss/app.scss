@@ -11,14 +11,14 @@
 @include foundation-button;
 @include foundation-forms;
 // @include foundation-range-input;
-@include foundation-accordion;
-@include foundation-accordion-menu;
-@include foundation-badge;
-@include foundation-breadcrumbs;
-@include foundation-button-group;
-@include foundation-callout;
-@include foundation-card;
-@include foundation-close-button;
+//@include foundation-accordion;
+//@include foundation-accordion-menu;
+//@include foundation-badge;
+//@include foundation-breadcrumbs;
+//@include foundation-button-group;
+//@include foundation-callout;
+//@include foundation-card;
+//@include foundation-close-button;
 @include foundation-menu;
 @include foundation-menu-icon;
 @include foundation-drilldown-menu;
@@ -27,18 +27,18 @@
 @include foundation-responsive-embed;
 @include foundation-label;
 @include foundation-media-object;
-@include foundation-off-canvas;
-@include foundation-orbit;
-@include foundation-pagination;
-@include foundation-progress-bar;
+//@include foundation-off-canvas;
+//@include foundation-orbit;
+//@include foundation-pagination;
+//@include foundation-progress-bar;
 // @include foundation-progress-element;
 // @include foundation-meter-element;
-@include foundation-slider;
-@include foundation-sticky;
-@include foundation-reveal;
-@include foundation-switch;
-@include foundation-table;
-@include foundation-tabs;
+//@include foundation-slider;
+//@include foundation-sticky;
+//@include foundation-reveal;
+//@include foundation-switch;
+//@include foundation-table;
+//@include foundation-tabs;
 @include foundation-thumbnail;
 @include foundation-title-bar;
 @include foundation-tooltip;
@@ -52,11 +52,8 @@
 
 html,
 body {
-  height: 100%;
-  background-color: #ffffff;
   font-family: "Open Sans Condensed";
   font-weight: 300;
-  line-height: 1;
 }
 h1,
 h2,
@@ -65,10 +62,18 @@ h4,
 h5,
 h6,
 p {
-  margin: 0;
-  line-height: 1;
   font-family: "Open Sans Condensed";
   font-weight: 700;
+}
+
+h3 {
+  font-size: 1.875rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+p {
+  font-size: 1.25rem;
 }
 
 $nav-header-background-color: rgba(0,0,0, 0.77);
@@ -77,17 +82,42 @@ $menu-font-size: 0.8rem;
 $submenu-font-size: 0.8rem;
 $header-height: 7.25rem;
 
+/* Some general padding stuff */
+.padded {
+	padding:0.5rem;
+}
+.padded-left {
+	padding-left:0.5rem;
+}
+.padded-right {
+	padding-right:0.5rem;
+}
+.padded-top {
+	padding-top:0.5rem;
+}
+.padded-bottom {
+	padding-bottom:0.5rem;
+}
+.padded-sides {
+	padding-right: 0.5rem;
+	padding-left: 0.5rem;
+}
+.padded-vertical {
+	padding-top: 0.5rem;
+	padding-bottom: .05rem;
+}
 div[data-sticky-container] {
 	height: auto !important;
 }
-
 .header,
 .footer {
-	background-color: $nav-header-background-color;
 	position: relative;
 	z-index: 99999;
 	left: 0;
 	right: 0;
+	background-color: #2b2b2b;
+	color: #cccccc;
+
 }
 
 .header {
@@ -175,6 +205,19 @@ div[data-sticky-container] {
 			}
 		}
 	}
+}
+
+.com-logos {
+	text-align: center;
+}
+.com-logos div {
+	width: auto;
+	float: left;
+	padding: 1.25rem;
+}
+.com-logos .column {
+	padding-top:0.2rem;
+	padding-bottom: 0.2rem;
 }
 
 .content {
@@ -291,6 +334,68 @@ div[data-sticky-container] {
 	}
 }
 
+
+div.row.bios {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+.bio > div.column {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+.bio p {
+	text-align: left;
+	font-size: 1.1rem;
+}
+
+.bio p img {
+	border: none;
+	width: 50%;
+	float: left;
+	padding-right: 0.5rem;
+	padding-bottom: 0.35rem;
+}
+.bio p img.line-pad {
+	padding-bottom: 2rem;
+}
+@media screen and (min-width: 40em) {
+	.column.rh-1 {
+		min-height: 45rem;
+	}
+	.column.rh-2 {
+		min-height: 40rem;
+	}
+	.column.rh-4 {
+		min-height: 32rem;
+	}
+	.column.rh-7 {
+		min-height: 32rem;
+	}
+}
+
+.news .image {
+	width: 103%;
+	float: right;
+	padding-left: 1rem;
+}
+
+@media screen and (min-width: 40em) {
+	.news .image {
+		width: 50%;
+	}
+}
+@media screen and (min-width: 50em) {
+	.news .image {
+		width: 30.125rem;
+	}
+}
+.news .image small {
+	font-style: italic;
+}
 @media screen and (min-width: 87.5rem) {
   .row {
   	width: 100%;
@@ -392,7 +497,7 @@ div[data-sticky-container] {
 		}
 	}
 
-	.content {		
+	.content {
 		article {
 			top: -$header-height;
 
