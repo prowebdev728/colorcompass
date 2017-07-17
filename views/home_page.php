@@ -1,4 +1,4 @@
-<div class="row intro">
+<div class="row">
 	<img src="/images/home2.jpg" alt="Partners In The Right Direction">
 </div>
 <div class="row column home">
@@ -9,7 +9,7 @@
 	<p>Our group delivers products, training, and solutions that enhance our customer’s production and profitability. We are a team of over 260 specialists throughout Canada who come together within four distinct Western Canadian jobber operations, as well as a national warehousing division; we have a national reach with a local touch.</p>
 </div>
 <div class="home-bottom">
-	<div class="row intro">
+	<div class="row">
 		<img src="/images/ccc_building.jpg" alt="Color Compass Head Office">
 	</div>
 	<div class="row small-up-2 medium-up-5 logos">
