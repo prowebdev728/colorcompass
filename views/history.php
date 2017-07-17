@@ -1,8 +1,8 @@
-		<div class="row intro bpadding">
+		<div class="row padded-bottom">
 			<img src="/images/about-us-banner.jpg" alt="Color Compass History">
 		</div>
 		<div class="row">
-			<div class="small-12 column">
+			<div class="small-12 column padded-vertical">
 				<h3>Our History</h3>
 				<p>The Color Compass Corporation is the largest independent automotive refinishes and related auto body supplies distributor in Canada. The growth of the company is a celebration of innovation, opportunity, and acquisition.</p>
 				<p>In 1984 Color Compass was founded with the acquisition of both White &amp; Peters and Mutual Warehouse in British Columbia. With an eye on expansion and growth in Western Canada, Color Compass moved into Alberta with the acquisition of Carlson Body Shop Supply and PBE Distributors in 1987. Over the next ten years the group would consolidate Mutual Warehouse within PBE Distributors and further strengthen the already strong Carlson's brand in Edmonton and Calgary. In 1997 the growth continued with the group’s largest acquisition to date with the purchase of Chase Auto Body Supplies in Winnipeg, Manitoba. As in the past, Color Compass further expanded its distribution network by opening a PBE Distributors warehouse location in Winnipeg at that time as well. With an eye on further strengthening its position in British Columbia and Alberta, 2006 and 2007 saw the acquisitions of Valley Car Colour in Langley BC, and Rocky Mountain Sales in Edmonton.</p>
