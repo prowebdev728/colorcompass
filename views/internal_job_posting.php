@@ -1,4 +1,4 @@
-<div class="row intro bpadding">
+<div class="row padded-bottom">
 	<img src="/images/generic-banner.jpg" alt="Internal Job Posting">
 </div>
 <div class="row column">
