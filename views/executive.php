@@ -1,4 +1,4 @@
-<div class="row intro bpadding">
+<div class="row padded-bottom">
 	<img src="/images/about-us-banner.jpg" alt="Color Compass Corporation Leadership Team">
 </div>
 <div class="row small-up-1 large-up-2 bio">
