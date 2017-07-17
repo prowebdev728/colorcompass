@@ -1,7 +1,7 @@
-		<div class="row intro bpadding">
+		<div class="row padded-bottom">
 			<img src="/images/contact-banner.jpg" alt="Contact Color Compass Corporation">
 		</div>
-		<div class="row">
+		<div class="row padded-vertical">
 			<div class="small-12 medium-6 column">
 				<h4>Contact Us</h4>
 				<form action="contact/email" method="post" enctype="multipart/form-data" class="form1" id="contact_form">
