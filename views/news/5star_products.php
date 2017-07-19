@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>5Star Products are Ours!</h5>
 	<div class="image text-center">
-		<img src="/images/news/5star-xtreme.png" alt="5star Xtreme">
+		<img src="/images/5star-xtreme.png" alt="5star Xtreme">
 	</div>
 	<p>Every so often our attention is drawn to a product offering in our company for a variety of reasons. Reasons for this focus could be growth, lack of growth, new products, agency representation change. One particular line that has been almost under the radar while achieving steady growth and market penetration year after year is an offering from Autobody Brands. What started out just over twenty years ago as the 5-Star Brand has now grown into four separate brands; 5-Star, Advantage, Duragloss and Pure Reflections.</p>
 	<p>The 5-Star line is celebrating its 25th anniversary in the US has been sold through our company in Canada for just over 20 years. What makes this line so unique? We, as a company are a partner in this line and control exclusive distribution for the entire country. We have a strong influence over any new product that goes into the line and we also have a tech team that participates in a rigorous evaluation process before any new product is introduced into the line. Should there be any reservations or concerns on a product during the testing procedure that introduction is put on hold until our tech team is completely satisfied.</p>
