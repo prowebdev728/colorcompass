@@ -7,7 +7,6 @@
 	<title>Color Compass</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Ramabhadra' rel='stylesheet'>
-	<link rel="stylesheet" href="/css/foundation.min.css">
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/slideshow.css">
 	<link rel="stylesheet" href="/css/app.css">
