@@ -7,11 +7,10 @@
 	<title>Color Compass</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Roboto+Condensed" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Ramabhadra' rel='stylesheet'>
-	<link rel="stylesheet" href="/css/foundation.min.css">
 	<link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/slideshow.css">
 	<link rel="stylesheet" href="/css/app.css">
-	<script src="/js/jquery.min.js"></script>
+	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="/js/foundation.min.js"></script>
 </head>
 <body>
@@ -20,7 +19,7 @@
 			<div class="row nav-header">
 				<div class="columns nav-header-logo">
 					<div class="logo">
-						<a href="#"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>	
+						<a href="#"><img src="/images/ccc-logo-shadow.png" alt="Color Compass Corporation"></a>
 					</div>
 				</div>
 				<div class="title-bar" data-responsive-toggle="top_menu" data-hide-for="large">
@@ -59,7 +58,7 @@
 		      </div>
 				</div>
 			</div>
-		</div>	
+		</div>
 	</div>
 	<div class="expanded row content">
 		<ul class="cb-slideshow">
@@ -89,9 +88,9 @@
 		<article id="screen_D">
 	    <div>
 	    	<ul>
-		      <li><a href="http://www.pbedistributors.com" target="_blank"><img src="/images/pbe_logo.png" alt="PBE Distributors"></a></li>           
-		      <li><a href="http://www.chaseautobodysupplies.com" target="_blank"><img src="/images/chase_logo.png" alt="Chase Auto Body"></a></li>            
-		      <li><a href="http://www.carlsonbodyshopsupply.com" target="_blank"><img src="/images/carlson_logo.png" alt="Carlson Body Shop"></a></li>            
+		      <li><a href="http://www.pbedistributors.com" target="_blank"><img src="/images/pbe_logo.png" alt="PBE Distributors"></a></li>
+		      <li><a href="http://www.chaseautobodysupplies.com" target="_blank"><img src="/images/chase_logo.png" alt="Chase Auto Body"></a></li>
+		      <li><a href="http://www.carlsonbodyshopsupply.com" target="_blank"><img src="/images/carlson_logo.png" alt="Carlson Body Shop"></a></li>
 		      <li><a href="http://www.rockymountainsales.ca" target="_blank"><img src="/images/rocky_logo.png" alt="Rocky Mountain Sales"></a></li>
 		      <li><a href="http://www.whiteandpeters.com" target="_blank"><img src="/images/wp_logo.png" alt="White &amp; Peters"></a></li>
 		    </ul>
@@ -168,7 +167,7 @@
 		    }, 1000);
 			});
 
-			//background images transition for each screen_(A,B,C,D) 
+			//background images transition for each screen_(A,B,C,D)
 			/*var prevArticleIndex = 1;
 			$(".content article").on('mouseenter', function(e) {
 				e.preventDefault();
@@ -187,4 +186,3 @@
 		});
 	</script>
 </body>
-</html>
