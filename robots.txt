@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /controllers
+Disallow: /classes
+Disallow: /models
+Disallow: /view
+Disallow: /ssep
+Disallow: /sphiderpro
+Disallow: /images
