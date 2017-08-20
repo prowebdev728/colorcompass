@@ -17,27 +17,27 @@
 	<p>"And when you really look at the $1,500 number and you consider insurance and registration, maintenance, detailing, a lot of things that you traditionally have to worry about separately are all just rolled into this all in one price, I think it becomes a very compelling thing."</p>
 	<p>However, Lee said that Cadillac could change the pricing structure after the program is out of beta and may even consider a tiered subscription service.</p>
 	<p>Price aside, the Book experience is quite impressive. It's all app-based and incredibly intuitive.</p>
-	<img src="/images/news/cadillac-book1.jpg" alt="Cadillac Book 1">
+	<img src="/images/cadillac-book1.jpg" alt="Cadillac Book 1">
 	<p>To enroll in the Book service, you must first sign up online. Once you are accepted into the program, you simply download the app and make an account.</p>
 	<p>Cadillac developed the app in-house and plans to keep improving the app's user interface via software updates.</p>
 	<p>"We are going to continue to make the experience better and better," Lee said. "In the next phase, expect to see even greater improvements for our users. We want to make it even more intuitive and for the UI to be extremely simple and easy to use."</p>
 	<p>Once logged into the app, the user is presented with a selection of current-year platinum-level-trim Cadillacs, including the XT5, CT6, Escalade, and V Series.</p>
-	<img src="/images/news/cadillac-book2.jpg" alt="Cadillac Book 2">
+	<img src="/images/cadillac-book2.jpg" alt="Cadillac Book 2">
 	<p>You can also use the filter feature so that only a certain kind of car is displayed. For example, you can filter it so that only SUVs are shown or only sedans.</p>
 	<p>From here, a user simply selects which car he or she wants, the drop-off and pick-up date, and the time and place he or she wants the car delivered.</p>
-	<img src="/images/news/cadillac-book3.jpg" alt="Cadillac Book 3">
+	<img src="/images/cadillac-book3.jpg" alt="Cadillac Book 3">
 	<p>The concierge will pick up and deliver to all five boroughs and to some cities in New Jersey.</p>
 	<p>The first car I checked out was the Cadillac CT6. I requested the concierge drop the vehicle off on 5th Avenue.</p>
-	<img src="/images/news/cadillac-book4.jpg" alt="Cadillac Book 4">
+	<img src="/images/cadillac-book4.jpg" alt="Cadillac Book 4">
 	<p>It may not be the most powerful car on the menu, but its tech features make it my personal favorite Cadillac car.</p>
 	<p>When the concierge drops the car off, he offered to walk me through the car's features and asked if I had any questions.</p>
 	<p>Having driven the CT6 before, I opted to skip the walk-through, gave my thanks, and took the keys. But if you are unfamiliar with the vehicle, the concierge will take a few minutes to highlight some of the vehicle's best features. </p>
 	<p>The first time you check out a car, you receive a swag bag which contains a Cadillac branded umbrella and notepad.</p>
-	<img src="/images/news/cadillac-book5.jpg" alt="Cadillac Book 5">
+	<img src="/images/cadillac-book5.jpg" alt="Cadillac Book 5">
 	<p>All vehicles in the program have access to On-Star services, Sirius XM, and an unlimited 4G LTE + Wi-Fi Hotspot.</p>
 	<p>Every car comes stocked with bottled water and mints, which is a nice touch.</p>
 	<p>In addition to the CT6, I also checked out the Cadillac ATS-V and ...</p>
-	<img src="/images/news/cadillac-book6.jpg" alt="Cadillac Book 6">
+	<img src="/images/cadillac-book6.jpg" alt="Cadillac Book 6">
 	<p>The Cadillac ATS-V is one of the performance cars the brand offers via Book</p>
 	<p>Overall, using Book was an enjoyable experience. However, there was one issue that kept coming up: parking.</p>
 	<p>A $1,500 car subscription should come with some parking options.</p>
