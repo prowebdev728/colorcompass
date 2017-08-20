@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>Back to Back Wins</h5>
 	<div class="image">
-		<img src="/images/news/back-to-back-wins.jpg" alt="Back to Back Wins">
+		<img src="/images/back-to-back-wins.jpg" alt="Back to Back Wins">
 		<small>Russ Duncan (centre) accepts the Pro Spot Distributor of the Year Award at the 2016 SEMA Show from Ron Olsson (left) and Art Ewing of Pro Spot.</small>
 	</div>
 	<p>Coquitlam, British Columbia -- November 21, 2016 -- Color Compass Corporation has won the Pro Spot Distributor of the Year award for the second year running. The award was presented at the 2016 SEMA Show.</p>
