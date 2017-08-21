@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>Carlson A Major Sponsor at Renowned Alberta Car Event</h5>
 	<div class="image text-center">
-		<img src="/images/news/carlson-sponsor4.jpg" alt="Carlson A Major Sponsor">
+		<img src="/images/carlson-sponsor4.jpg" alt="Carlson A Major Sponsor">
 	</div>
 	<p>The North American love affair with the automobile is legendary. In fact, for over fifty-seven years, custom car shows have paid tribute to the innovative workmanship that continuously re-invents and improves the vehicles of yesterday and today. Championship Auto Shows (CASI), the undisputed leader in indoor custom car show production, produces the largest show series in the business: better known under the monikers of Autorama or World of Wheels. Close to 20 events are held annually across the United States and Canada.</p>
 	<p>Hot rods are always at the heart of each show, but in recent years the composition has expanded to include manufacturers' displays. As a result, today's shows appeal equally to those who own competition cars, specialty and concept vehicles and those who dream about owning them.</p>
@@ -17,16 +17,16 @@
 	</div>
 	<p>Special thank you to all of the Carlson and BASF staff who devoted their time in Calgary and Edmonton to make these shows a success!</p>
 		<div class="row small-up-1 medium-up-4">
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor1.jpg" alt="Carlson Sponsor 1"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor2.jpg" alt="Carlson Sponsor 2"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor3.jpg" alt="Carlson Sponsor 3"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor5.jpg" alt="Carlson Sponsor 5"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor6.jpg" alt="Carlson Sponsor 6"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor7.jpg" alt="Carlson Sponsor 7"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor8.jpg" alt="Carlson Sponsor 8"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor9.jpg" alt="Carlson Sponsor 9"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor10.jpg" alt="Carlson Sponsor 10"></div>
-		<div class="column padded-vertical"><img src="/images/news/carlson-sponsor11.jpg" alt="Carlson Sponsor 11"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor1.jpg" alt="Carlson Sponsor 1"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor2.jpg" alt="Carlson Sponsor 2"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor3.jpg" alt="Carlson Sponsor 3"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor5.jpg" alt="Carlson Sponsor 5"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor6.jpg" alt="Carlson Sponsor 6"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor7.jpg" alt="Carlson Sponsor 7"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor8.jpg" alt="Carlson Sponsor 8"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor9.jpg" alt="Carlson Sponsor 9"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor10.jpg" alt="Carlson Sponsor 10"></div>
+		<div class="column padded-vertical"><img src="/images/carlson-sponsor11.jpg" alt="Carlson Sponsor 11"></div>
 		</div>
 
 </div>
