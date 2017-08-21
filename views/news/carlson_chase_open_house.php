@@ -5,13 +5,13 @@
 	<p>Repair professionals in attendance also had an opportunity to attend educational presentations and take a look at KUBE; the Color Compass Inventory Management and Documented Solutions system. Presentations included Leanne Jefferies of Certified Collision Care, who discussed their body shop accreditation and OEM certification programs, and David Hensch of Pure Auto Digital Marketing, highlighting how that company's focus on marketing solutions for automotive small businesses can help repairers gain visibility in a crowded online world.</p>
 	<p>"The event had an overwhelming response from those that attended," says Jamie Corbeil, Southern Alberta Sales Manager with Carlson Body Shop Supply. "For us at Color Compass, it reinforces the importance of continually showing collision repairers the innovative products and programs that are available to them, ultimately helping them make the best decisions in our rapidly changing industry. Thank you to all who helped in making this event such a success!"</p>
 	<div class="row small-up-2 medium-up-4 padded-top">
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary1.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary2.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary3.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary4.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary5.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary6.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary7.jpg" alt="Calgary Open House"></div>
-		<div class="column padded-vertical"><img src="/images/news/openhouse-calgary8.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary1.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary2.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary3.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary4.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary5.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary6.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary7.jpg" alt="Calgary Open House"></div>
+		<div class="column padded-vertical"><img src="/images/openhouse-calgary8.jpg" alt="Calgary Open House"></div>
 	</div>
 </div>
