@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>A Lot Has Changed Since 2006</h5>
 	<div class="image">
-		<img src="/images/news/changes-2006.jpg" alt="A Lot Has Changed Since 2006">
+		<img src="/images/changes-2006.jpg" alt="A Lot Has Changed Since 2006">
 	</div>
 	<p>The drought is finally over for Oilers fans, and while the editors here at the Connected must stay impartial (the Canucks will rise again!), we thought it would be interesting to look back at what has happened since the Oil were last playing playoff games in 2006.</p>
 	<p>For starters, no one had an iPhone back then (Blackberry was king). The original version of the Apple smartphone was not released until June 29, 2007. The population of the City of Champions has jumped by more than 200,000 people from 730,372 in 2006 to 932,546 in 2016. And Oilers star center Connor McDavid was just nine years old.</p>
