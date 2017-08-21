@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>New Product Line</h5>
 	<div class="text-center padded">
-		<img src="/images/news/car-o-liner-1.png" alt="Car-O-Liner">
+		<img src="/images/car-o-liner-1.png" alt="Car-O-Liner">
 	</div>
 	<p>Car-O-Liner has announced that Color Compass Corporation is now distributing the company's equipment in British Columbia.</p>
 	<p>"We are extremely excited to be working with Car-O-Liner Company and look forward to a great partnership", said Mort Hall, General Manager of Color Compass Corporation. "Car-O-Liner gives us an exciting and respected product line to offer to our clientele which in turn will only make them more efficient and profitable."</p>
