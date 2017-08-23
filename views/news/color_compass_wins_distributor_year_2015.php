@@ -2,7 +2,7 @@
 	<h5>Color Compass Wins Distributor of the Year 2015</h5>
 	<p>Vancouver, British Columbia -- Color Compass Corporation has received the Pro Spot International Distributor of the Year award, presented at the 2015 SEMA Show. In essence, this award is given to the distributor who sold the most Pro Spot product in the last year, but there’s much more to it than that.</p>
 	<div class="image">
-		<img src="/images/news/news1.jpg" alt="jack">
+		<img src="/images/news1.jpg" alt="jack">
 		<small>Russell Duncan (center), Color Compass Corporation's Equipment Specialist, accepting the award from Art Ewing of Pro Spot Canada and Ron Olsson, President of Pro Spot International.</small>
 	</div>
 	<p>&quot;The primary driver is your sales, but it also takes into consideration the support mechanism that follows the sale," says Russell Duncan, an equipment specialist with Color Compass Corporation who accepted the award. "They look into the training you provide and the service level you provide to your customer base. With every unit we sold, we were installing, training and offering service throughout. Rather than selling the unit and letting the customer deal with whatever came up, we really made sure that we were on hand to help them find success.&quot;</p>
