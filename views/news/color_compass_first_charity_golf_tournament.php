@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>PBE &amp; Color Compass Host Two Charity Golf Events</h5>
 	<div class="image">
-		<img src="/images/news/peter-lui.jpg" alt="Peter Lui">
+		<img src="/images/peter-lui.jpg" alt="Peter Lui">
 		<small>Peter Lui, Sales Representative with White &amp; Peters and his spotter try to track down Peter's usually big drive</small>
 	</div>
 	<p>
