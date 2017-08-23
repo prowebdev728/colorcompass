@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>Chase Joins Customers &amp; Suppliers in Italy</h5>
 	<div class="image">
-		<img src="/images/news/chase-italy.jpg" alt="Chase Joins Customers & Suppliers in Italy">
+		<img src="/images/chase-italy.jpg" alt="Chase Joins Customers & Suppliers in Italy">
 	</div>
 	<p>Recently John Santos, Business Development Manager, and Justin Zelinski, Sales Representative with Chase joined customers and vendors on a very special trip to Italy. The crux of the trip was to visit Symach, a revolutionary equipment production system for collision repair facilities. We asked John a little bit about the trip, and in true John fashion, he took us on a first-class tour!</p>
 	<p>Imagine having the opportunity to check three things off your bucket list…going to Italy, touring through Ferrari and Lamborghini and seeing the statue of David. I was thrilled to be given the opportunity to represent Color Compass and Chase Autobody Supplies and accompany Chase customers to the Symach facility in Bologna Italy. Jenn Giocoli from Precision Auto Body in Saskatoon was the person who originally got the ball rolling. She had suggested that AkzoNobel coordinate an opportunity for customers to visit the facility. Our friends at Akzo worked with the team at Symach to put a great week together for us all.</p>
@@ -12,34 +12,34 @@
 	<p>Arrivederci</p>
 	<p>John Santos</p>
 	<div class="row small-up-2 medium-up-4 padded-top">
-		<div class="column padded-vertical"><img src="/images/news/chase-italy1.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy2.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy3.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy4.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy5.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy6.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy7.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy9.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy11.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy12.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy13.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy14.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy15.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy16.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy18.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy19.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy22.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy23.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy25.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy26.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy27.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy1.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy2.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy3.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy4.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy5.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy6.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy7.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy9.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy11.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy12.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy13.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy14.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy15.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy16.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy18.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy19.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy22.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy23.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy25.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy26.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy27.jpg" alt="Chase Italy"></div>
 	</div>
 	<div class="row small-up-2 medium-up-4 padded-top">
-		<div class="column padded-vertical"><img src="/images/news/chase-italy8.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy10.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy17.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy20.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy21.jpg" alt="Chase Italy"></div>
-		<div class="column padded-vertical"><img src="/images/news/chase-italy24.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy8.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy10.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy17.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy20.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy21.jpg" alt="Chase Italy"></div>
+		<div class="column padded-vertical"><img src="/images/chase-italy24.jpg" alt="Chase Italy"></div>
 	</div>
 </div>
