@@ -12,9 +12,9 @@
 	<p>We had the chance to quickly chat with Jamie Corbeil, Southern Alberta Sales Manager with Carlson, "It's a very exciting time in Calgary. These new upgrades will carry us into the next decade and enable us to be at the fore front in providing a world class facility and experience for our customers and staff."</p>
 	<p>We look forward to highlighting the "After Images" in future Connected issues. </p>
 	<div class="row small-up-1 medium-up-4">
-		<div class="column padded-vertical"><img src="/images/news/exciting-changes1.jpg" alt="Exciting Changes 1"></div>
-		<div class="column padded-vertical"><img src="/images/news/exciting-changes2.jpg" alt="Exciting Changes 2"></div>
-		<div class="column padded-vertical"><img src="/images/news/exciting-changes3.jpg" alt="Exciting Changes 3"></div>
-		<div class="column padded-vertical"><img src="/images/news/exciting-changes4.jpg" alt="Exciting Changes 4"></div>
+		<div class="column padded-vertical"><img src="/images/exciting-changes1.jpg" alt="Exciting Changes 1"></div>
+		<div class="column padded-vertical"><img src="/images/exciting-changes2.jpg" alt="Exciting Changes 2"></div>
+		<div class="column padded-vertical"><img src="/images/exciting-changes3.jpg" alt="Exciting Changes 3"></div>
+		<div class="column padded-vertical"><img src="/images/exciting-changes4.jpg" alt="Exciting Changes 4"></div>
 	</div>
 </div>
