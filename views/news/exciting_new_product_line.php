@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>An Exciting New Product Line for CCC</h5>
 	<div class="image">
-		<img src="/images/news/car-o-liner.jpg" alt="Car-O-Liner">
+		<img src="/images/car-o-liner.jpg" alt="Car-O-Liner">
 	</div>
 	<p>Car-O-Liner is the leading global provider of high-quality, technologically advanced collision repair equipment to the automotive aftermarket. For more than 40 years, they have supplied the industry with innovative solutions, technical development, training, and customer support.</p>
 	<p>The extensive Car-O-Liner range encompasses advanced measuring systems, benches and work platforms for structural and cosmetic repair, welding equipment, anchoring equipment, and aluminum repair equipment. Car-O-Liner boasts an impressive number of OEM approvals for their equipment. OEM approvals are a required piece for repair facilities to earn formalized certifications from the top car brands. Currently Color Compass will be authorized to sell and support the line in BC, Saskatchewan and Manitoba only.</p>
