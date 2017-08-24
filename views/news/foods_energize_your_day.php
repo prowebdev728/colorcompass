@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>Foods To Energize Your Day</h5>
 	<div class="image">
-		<img src="/images/news/foods-energize-your-day.jpg" alt="Foods To Energize Your Day">
+		<img src="/images/foods-energize-your-day.jpg" alt="Foods To Energize Your Day">
 	</div>
 	<p>Now we're not saying you should abstain from coffee completely; that would be just crazy! Instead keep this list handy when selecting your next meal or when you start to feel sluggish — use these tips and you'll be feeling more energetic and recharged in no time!</p>
 	<ol>
