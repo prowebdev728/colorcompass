@@ -11,21 +11,21 @@
 	</ul>
 	<p>Jamie Corbeil, Southern Alberta Sales Manager for Carlson and Project Lead for the renovations, couldn't hide his excitement of how everything turned out "We are really happy with the results, what we now have is a larger more inviting space for both our customers and staff. The ability to now hold larger training clinics and industry events will really set Color Compass far above the competition, if you're ever in the Calgary area please stop by!" </p>
 	<div class="row small-up-1 medium-up-4">
-		<div class="column padded-vertical"><img src="/images/news/img-3260.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3261.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3262.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3263.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3264.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3265.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3266.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3270.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3271.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3272.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3274.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3260.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3261.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3262.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3263.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3264.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3265.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3266.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3270.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3271.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3272.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3274.jpg" alt="Exciting Changes"></div>
 	</div>
 	<div class="row small-up-1 medium-up-3">
-		<div class="column padded-vertical"><img src="/images/news/img-3267.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3268.jpg" alt="Exciting Changes"></div>
-		<div class="column padded-vertical"><img src="/images/news/img-3273.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3267.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3268.jpg" alt="Exciting Changes"></div>
+		<div class="column padded-vertical"><img src="/images/img-3273.jpg" alt="Exciting Changes"></div>
 	</div>
 </div>
