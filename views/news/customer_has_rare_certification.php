@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>White &amp; Peters Customer Has Rare Certification</h5>
 	<div class="image">
-		<img src="/images/news/richmond-auto-body.jpg" alt="Customer Has Rare Certification">
+		<img src="/images/richmond-auto-body.jpg" alt="Customer Has Rare Certification">
 	</div>
 	<p>Lamborghini's vehicles are some of the highest-priced in the world and the complexity of their construction reflects the sticker price. A total of two shops in all of Canada have been granted the exclusive rights to perform collision repairs on Lamborghinis in this country.</p>
 	<p>CSN-427 Auto Collision in Toronto and CSN-OpenRoad Richmond Auto Body are the facilities in question. Achieving the authorization from Automobili Lamborghini Canada to perform these repairs was no easy task. An extensive audit process, training and specialized equipment requirements had to be me by these facilities before certification, due in large part to the complexity of the technology needed to check the integrity of the carbon fibre monocoque and aluminum present in the new models.</p>
