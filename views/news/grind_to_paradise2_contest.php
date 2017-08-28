@@ -1,7 +1,7 @@
 <div class="news">
 	<h5>Color Compass 3M Grind To Paradise 2 Contest</h5>
 	<div class="image padded">
-		<img src="/images/news/grind-paradise2.jpg" alt="Grind To Paradise 2">
+		<img src="/images/grind-paradise2.jpg" alt="Grind To Paradise 2">
 	</div>
 	<p>Starting November 1st 2016, our Jobber divisions consisting of Carlson, Chase, White & Peters, and Rocky Mountain participated in a 3M sponsored internal sales contest and market-wide promotion. The Grind to Paradise 2 promotion gave our customers a shot at a $3500 travel voucher for every $200 purchased of Cubitron II and Accuspray products.  For the internal sales contest we really tried to drive growth on the participating products and had prizes for the top sales reps within each division that achieved the highest sales growth.</p>
 	<div class="row small-up-1 medium-up-3">
